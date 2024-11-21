@@ -24,7 +24,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/zustand-todo-app.git
+   git clone https://github.com/Omurbek1/Zustund_ToDo.git
    cd zustand-todo-app
 2. Install dependencies:
    ```bash
@@ -111,3 +111,11 @@ const useTodoStore = create<TodoStore>()(
 - Search: Quickly search for tasks by their title.
 - Filter: Filter tasks by their status (Pending, Completed).
 
+![Screen-Recording-2024-11-21-at-09 46 50](https://github.com/user-attachments/assets/867e9182-baf9-4c1f-9198-59fa0f24d714)
+
+## About the Author
+👤 Omurbek Mamytbekov
+Frontend Developer passionate about creating modern applications and sharing knowledge.
+
+GitHub
+Medium
